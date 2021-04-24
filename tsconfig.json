@@ -4,6 +4,9 @@
       "baseUrl": "./",
       "outDir": "./dist/out-tsc",
       "forceConsistentCasingInFileNames": true,
+	  "resolveJsonModule": true,
+	  "esModuleInterop": true,
+	  "allowSyntheticDefaultImports": true,
       "strict": true,
       "noImplicitReturns": true,
       "noFallthroughCasesInSwitch": true,
@@ -27,4 +30,3 @@
       "strictTemplates": true
     }
   }
-  
