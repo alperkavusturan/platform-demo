@@ -1,0 +1,43 @@
+[
+	{
+		"Id": "8ad33acd-ed2a-4523-8fdb-a672aa9e234a",
+		"Name": "",
+		"Product": {
+			"Id": "5c381641-903b-4ae7-bf90-86091ddde9b1",
+			"Name": "Lemon Haze",
+			"TargetAmount": 100,
+			"Measurement": "kg",
+			"Price": 5000
+		},
+		"Buyers": [
+			{
+				"Id": "0f618f7b-6bd2-4daf-aae3-8b0a24ac3f21",
+				"Email": "alper@kavusturan.com",
+				"Name": "Alper",
+				"Surname": "Kavusturan",
+				"Location": "Eindhoven"
+			},
+			{
+				"Id": "0e4d6cc3-36a4-4488-8de0-4d676c048f9e",
+				"Email": "john@doe.com",
+				"Name": "John",
+				"Surname": "Doe",
+				"Location": "'s-Hertogenbosch"
+			},
+			{
+				"Id": "576c97ef-0e0e-4110-837e-81f71115e6fa",
+				"Email": "alissa@becker.com",
+				"Name": "Alissa",
+				"Surname": "Becker",
+				"Location": "Amsterdam"
+			},
+			{
+				"Id": "246b4b8c-f698-41d9-8b0b-eabf01f76536",
+				"Email": "mark@butte.com",
+				"Name": "Mark",
+				"Surname": "Butte",
+				"Location": "Lahey"
+			}
+		]
+	}
+]
